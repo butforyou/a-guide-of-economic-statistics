@@ -22,7 +22,7 @@ plugins:
 # 页面导航
 nav:
   - 序: index.md
-  - 概率论: chapter1.md
+  - 概率论与数理统计: chapter1.md
   - 机器学习: chapter2.md
 
 # 扩展
