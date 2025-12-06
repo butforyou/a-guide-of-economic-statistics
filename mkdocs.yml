@@ -1,0 +1,39 @@
+site_name: 经济统计指南
+site_description: 经济统计学习指南与资源
+site_author: butforyou
+site_url: https://butforyou.github.io/a-guide-of-economic-statistics/
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: light blue
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+# 插件
+plugins:
+  - search
+
+# 页面导航
+nav:
+  - 序: index.md
+  - 概率论: chapter1.md
+  - 机器学习: chapter2.md
+
+# 扩展
+markdown_extensions:
+  - admonition
+  - codehilite
+  - extra
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.superfences
+
+# 版权信息
+copyright: Copyright &copy; 2024 butforyou
