@@ -22,8 +22,13 @@ plugins:
 # 页面导航
 nav:
   - 序: index.md
+  - 必要工具: chapter6.md
   - 概率论与数理统计: chapter1.md
   - 机器学习: chapter2.md
+  - 深度学习与计算机视觉: chapter3.md
+  - 推荐系统: chapter4.md
+  - Python 编程基础: chapter5.md
+  
 
 # 扩展
 markdown_extensions:
