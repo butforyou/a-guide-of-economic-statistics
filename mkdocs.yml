@@ -22,12 +22,24 @@ plugins:
 # 页面导航
 nav:
   - 序: index.md
-  - 必要工具: chapter6.md
-  - 概率论与数理统计: chapter1.md
+  - 旅行前的准备:
+    - 概述: tools/index.md
+    - 文本编辑与笔记: tools/editor.md
+    - 版本控制: tools/git.md
+    - AI 工具: tools/ai.md
+    - 环境与系统: tools/environment.md
+    - 科学计算与可视化: tools/scientific.md
+  - Python 编程基础: chapter5.md
+  - 线性代数: linear-algebra.md
+  - 概率论与数理统计:
+    - 概述: probability/index.md
+    - 茆诗松教材: probability/mao.md
+    - 陈希孺教材: probability/chen.md
   - 机器学习: chapter2.md
   - 深度学习与计算机视觉: chapter3.md
+  - 自然语言处理: cs224n.md
   - 推荐系统: chapter4.md
-  - Python 编程基础: chapter5.md
+  - 数据结构: datastructure.md
   
 
 # 扩展

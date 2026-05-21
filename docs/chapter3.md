@@ -14,7 +14,7 @@ CS231n（全称：Convolutional Neural Networks for Visual Recognition）是斯�
 |------|------|
 | **课程名称** | CS231n: Convolutional Neural Networks for Visual Recognition |
 | **授课教师** | 李飞飞（Fei-Fei Li）等 |
-| **难度** | :star: :star: :star: :star: |
+| **难度** | ⭐⭐⭐⭐⭐ |
 | **预计学时** | 约 80 小时 |
 | **先修要求** | Python熟练、微积分、线性代数、概率统计、机器学习基础 |
 | **课程官网** | [cs231n.stanford.edu](http://cs231n.stanford.edu/) |

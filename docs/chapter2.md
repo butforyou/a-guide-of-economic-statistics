@@ -16,7 +16,7 @@ CS229 是斯坦福大学吴恩达（Andrew Ng）主讲的研究生级机器学�
 |------|------|
 | **课程名称** | CS229: Machine Learning |
 | **授课教师** | Andrew Ng（吴恩达） |
-| **难度** | :star: :star: :star: :star: |
+| **难度** | ⭐⭐⭐⭐ |
 | **预计学时** | 约 100 小时 |
 | **先修要求** | 高等数学、线性代数、概率论、Python基础 |
 | **课程官网** | [cs229.stanford.edu](http://cs229.stanford.edu/) |
